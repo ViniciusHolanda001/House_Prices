@@ -181,12 +181,12 @@ YearRemodAdd: Remodel date (same as construction date if no remodeling or additi
 
 RoofStyle: Type of roof
 
-       Flat	Flat
-       Gable	Gable
+       Flat	       Flat
+       Gable	       Gable
        Gambrel	Gabrel (Barn)
-       Hip	Hip
+       Hip	       Hip
        Mansard	Mansard
-       Shed	Shed
+       Shed	       Shed
 		
 RoofMatl: Roof material
 
@@ -241,11 +241,11 @@ Exterior2nd: Exterior covering on house (if more than one material)
 	
 MasVnrType: Masonry veneer type
 
-       BrkCmn	Brick Common
+       BrkCmn	       Brick Common
        BrkFace	Brick Face
-       CBlock	Cinder Block
-       None	None
-       Stone	Stone
+       CBlock	       Cinder Block
+       None	       None
+       Stone	       Stone
 	
 MasVnrArea: Masonry veneer area in square feet
 

@@ -8,7 +8,7 @@
 
 [//]: # (🡣 - Titulo e descrição do projeto)
 
-# House_Prices
+# House Prices Project
 Exploratory Data Analysis, Feature Engineering and Predict Price Model.
 
 [//]: # (-- Parágrafos falando mais especificadamente sobre o projeto 🡣)

@@ -66,11 +66,11 @@ Utilities: Type of utilities available
 	
 LotConfig: Lot configuration
 
-       Inside	Inside lot
-       Corner	Corner lot
+       Inside	       Inside lot
+       Corner	       Corner lot
        CulDSac	Cul-de-sac
-       FR2	Frontage on 2 sides of property
-       FR3	Frontage on 3 sides of property
+       FR2	       Frontage on 2 sides of property
+       FR3	       Frontage on 3 sides of property
 	
 LandSlope: Slope of property
 		

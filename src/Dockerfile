@@ -1,4 +1,4 @@
-FROM python:3.8.8
+FROM
 RUN
 EXPOSE 8080
 COPY *.sh /absolute/path

@@ -14,6 +14,11 @@
 # House Prices Project
 Exploratory Data Analysis, Feature Engineering and Predict Price Model.
 
+y_{i} = \alpha + \beta x_{i} + \varepsilon_{i}
+
+# $y_{i}$ = $\alpha$ + $\beta x_{i}$ + $\varepsilon_{i}$
+
+
 [//]: # (-- Parágrafos falando mais especificadamente sobre o projeto 🡣)
 
 

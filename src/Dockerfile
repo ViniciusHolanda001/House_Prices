@@ -1,4 +1,4 @@
-FROM
+FROM python
 RUN
 EXPOSE 8080
 COPY *.sh /absolute/path

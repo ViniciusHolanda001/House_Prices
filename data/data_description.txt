@@ -59,10 +59,10 @@ LandContour: Flatness of the property
 		
 Utilities: Type of utilities available
 		
-       AllPub	All public Utilities (E,G,W,& S)	
-       NoSewr	Electricity, Gas, and Water (Septic Tank)
-       NoSeWa	Electricity and Gas Only
-       ELO	Electricity only	
+       AllPub	       All public Utilities (E,G,W,& S)	
+       NoSewr	       Electricity, Gas, and Water (Septic Tank)
+       NoSeWa	       Electricity and Gas Only
+       ELO	       Electricity only	
 	
 LotConfig: Lot configuration
 
@@ -140,14 +140,14 @@ BldgType: Type of dwelling
 	
 HouseStyle: Style of dwelling
 	
-       1Story	One story
-       1.5Fin	One and one-half story: 2nd level finished
-       1.5Unf	One and one-half story: 2nd level unfinished
-       2Story	Two story
-       2.5Fin	Two and one-half story: 2nd level finished
-       2.5Unf	Two and one-half story: 2nd level unfinished
-       SFoyer	Split Foyer
-       SLvl	Split Level
+       1Story	       One story
+       1.5Fin	       One and one-half story: 2nd level finished
+       1.5Unf	       One and one-half story: 2nd level unfinished
+       2Story	       Two story
+       2.5Fin	       Two and one-half story: 2nd level finished
+       2.5Unf	       Two and one-half story: 2nd level unfinished
+       SFoyer	       Split Foyer
+       SLvl	       Split Level
 	
 OverallQual: Rates the overall material and finish of the house
 

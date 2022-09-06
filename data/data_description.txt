@@ -364,7 +364,7 @@ Electrical: Electrical system
 
 LowQualFinSF: Low quality finished square feet (all floors)
 
-GrLivArea: Above grade (ground) living area square feet
+GrLivArea: Above grade (ground) living area square feet (convert to square meters)
 
 BsmtFullBath: Basement full bathrooms
 
